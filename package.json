@@ -1,0 +1,22 @@
+{
+  "name": "route-patterns-utility",
+  "version": "0.1.0",
+  "author": "Louis DeScioli <louis.descioli@gmail.com>",
+  "homepage": "http://lourd.github.io/route-patterns-utility",
+  "private": true,
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "path-to-regexp": "^1.7.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
